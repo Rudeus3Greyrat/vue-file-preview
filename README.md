@@ -11,7 +11,8 @@ Please visit http://mozilla.github.io/pdf.js/ for more information.
 
 ``` bash
 # install dependencies
-npm install filePreview
+npm i vue-simple-file-preview
+See https://www.npmjs.com/package/vue-simple-file-preview for more information.
 ```
 ## Props
 
